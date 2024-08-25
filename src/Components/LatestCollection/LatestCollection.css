@@ -1,0 +1,21 @@
+
+.latest-collection-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 50vh; */
+    width: 100%;
+    padding: 3rem 0;
+    height: 50vh;
+    /* background-color: #fce3fe; */
+}
+.latest-collection-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:fit-content;
+    /* padding: 1rem; */
+}
+.latest-collection-container  img{
+    width: 20rem
+}
